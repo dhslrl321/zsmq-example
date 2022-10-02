@@ -1,1 +1,4 @@
 rootProject.name = 'zsmq-example'
+
+include 'order-service'
+include 'delivery-service'

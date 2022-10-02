@@ -1,0 +1,6 @@
+server:
+  port: 8082
+
+zsmq:
+  url: http://localhost:8291
+  listening: false
