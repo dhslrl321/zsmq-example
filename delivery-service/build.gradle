@@ -22,7 +22,7 @@ repositories {
 
 dependencies {
 
-    implementation 'com.github.dhslrl321.zsmq:zola-messaging-spring-boot-starter:0.1.1-SNAPSHOT'
+    implementation 'com.github.dhslrl321.zsmq:zola-messaging-spring-boot-starter:1.0.0'
 
     implementation 'org.springframework.boot:spring-boot-starter-web'
     compileOnly 'org.projectlombok:lombok'
