@@ -8,6 +8,7 @@ import org.springframework.stereotype.Component;
 @Component
 @RequiredArgsConstructor
 public class MessagePublisher {
+
     private final ZolaQueueMessageTemplate template;
 
     public void sendConfirmedMessage(Order order) {
